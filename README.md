@@ -57,6 +57,15 @@ Fase 4: Producción (10-12)
 
 Ver [Plan Detallado](.github/ROADMAP.md) para detalles.
 ```
+```markdown
+## 📊 Seguimiento
+
+- **Google Sheet:** [Haz click aquí para evaluación](https://docs.google.com/spreadsheets/d/TU_LINK_AQUI)
+- **Google Calendar:** Automatizaciones Learning
+- **GitHub Issues:** [Ver tareas](https://github.com/tu-usuario/automatizaciones-12semanas/issues)
+- **Learning Log:** [Ver reflexiones](./LEARNING_LOG.md)
+```
+
 Commit:
 ```bash
 git add README.md
