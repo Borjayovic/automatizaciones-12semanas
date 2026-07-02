@@ -65,6 +65,12 @@ Ver [Plan Detallado](.github/ROADMAP.md) para detalles.
 - **GitHub Issues:** [Ver tareas](https://github.com/tu-usuario/automatizaciones-12semanas/issues)
 - **Learning Log:** [Ver reflexiones](./LEARNING_LOG.md)
 ```
+```bash
+git add README.md
+git commit -m "Add tracking links"
+git push
+```
+
 
 Commit:
 ```bash
