@@ -63,7 +63,7 @@ Ver [Plan Detallado](.github/ROADMAP.md) para detalles.
 
 - **Google Sheet:** [Haz click aquí para evaluación](https://docs.google.com/spreadsheets/d/1rzc4ADWzy97XWUT_8i6WJSoihFS0MHf2teFSzAMik6k/edit?usp=sharing)
 - **Google Calendar:** Automatizaciones Learning https://calendar.google.com/calendar/u/0?cid=MTRjMjViYmVlNmRkNTE0Yzc4MTFhNjZiOGJhMzZhNWEyY2MwZTE3NThlZmM5ZTUxYmFhOWNlMmQ4YjE1MWQzZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
-- **GitHub Issues:** [Ver tareas](https://github.com/tu-usuario/automatizaciones-12semanas/issues)
+- **GitHub Issues:** [Ver tareas](https://github.com/Borjayovic/automatizaciones-12semanas/issues)
 - **Learning Log:** [Ver reflexiones](./LEARNING_LOG.md)
 ```
 ```bash
